@@ -3,6 +3,7 @@ Hi, I’m Gabi
 🌱 I’m currently learning 
  - programming logic
  - C++
+ - Java
  
 📫 How to reach me 
  - Gabriela.lacerda2003@outlook.com
