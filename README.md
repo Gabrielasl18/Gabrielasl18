@@ -1,10 +1,3 @@
-Hi, I’m Gabi
+# Olá, Me chamo Gabi e seja Bem-Vindo(a) ao meu perfil.
 
-🌱 I’m currently learning 
- - programming logic
- - C++
- - Java
- 
-📫 How to reach me 
- - Gabriela.lacerda2003@outlook.com
- - https://www.linkedin.com/in/gabriela-l-aa95961b4/
+![computer-illustration](https://user-images.githubusercontent.com/96033603/188584363-49663940-8da5-49ec-806d-75826275580b.png)
