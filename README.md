@@ -8,7 +8,8 @@
 🎓 Cursando Ciência da Computação pelo CEFET/RJ
 </p>
 
- ##
+
+</br>
 
 <div align="center">
   <a href="https://github.com/Gabrielasl18">
