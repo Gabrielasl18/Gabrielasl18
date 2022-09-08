@@ -4,13 +4,19 @@
   <td><img align="right" src="img/pc.png" ></td>
  </tr>
 
-<p font-size:18px>
+<p>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
 🎓 Cursando Ciência da Computação pelo CEFET/RJ
+ </br>
 </p>
 
 
 </br>
-
+</br>
 <div align="center">
   <a href="https://github.com/Gabrielasl18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielasl18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
