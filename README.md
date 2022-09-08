@@ -4,7 +4,7 @@
   <td><img align="right" src="img/pc.png" ></td>
  </tr>
 
-<p>
+<p font-size:18px>
 🎓 Cursando Ciência da Computação pelo CEFET/RJ
 </p>
 
