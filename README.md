@@ -1,21 +1,9 @@
 # Olá, Me chamo Gabi e seja Bem-Vindo(a) ao meu perfil.
 
  <tr>
-  <td><img align="right" src="img/pc.png" ></td>
+  <td><img align="center" src="img/pc.png" ></td>
  </tr>
 
-<p>
- </br>
- </br>
- </br>
- </br>
- </br>
-🎓 Cursando Ciência da Computação pelo CEFET/RJ
- </br>
-</p>
-
-
-</br>
 </br>
 <div align="center">
   <a href="https://github.com/Gabrielasl18">
