@@ -1,7 +1,7 @@
 # Olá, Me chamo Gabi e seja Bem-Vindo(a) ao meu perfil.
 
  <tr>
-  <td><img align="center" src="img/pc.png" ></td>
+  <td><img src="img/pc.png" ></td>
  </tr>
 
 </br>
